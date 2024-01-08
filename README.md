@@ -39,4 +39,5 @@ The influence on buying habits.
 
 Shows who made it and the copyright.
 
+https://mandeepiscoding.github.io/SEO-Challenge-1/
 ![Screenshot of the page](/assets/images/screenshot.png)
