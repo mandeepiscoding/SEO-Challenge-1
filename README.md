@@ -39,3 +39,4 @@ The influence on buying habits.
 
 Shows who made it and the copyright.
 
+![Screenshot of the page](/assets/images/screenshot.png)
